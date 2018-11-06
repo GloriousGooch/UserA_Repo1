@@ -1,4 +1,4 @@
 hello world
 changed your gooch file
 
-Alert - the gooch file has been changed!!!
+Alert - The Gooch file has been changed!!!
