@@ -1,4 +1,10 @@
 hello world
 changed your gooch file
+
+
+Alert - The Gooch file has been changed!!!
+
+Another changed!?
+
 lab3-checkedit
 lab3-madeanotherchangetofile1.txtinrad
